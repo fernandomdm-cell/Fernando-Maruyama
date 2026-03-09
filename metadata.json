@@ -1,0 +1,7 @@
+{
+  "name": "EMAGRECENTRO - Sua Nova Versão",
+  "description": "Simulador de resultados estéticos utilizando IA para criar visualizações de antes e depois.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
