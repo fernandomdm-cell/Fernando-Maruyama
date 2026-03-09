@@ -12,7 +12,7 @@ export async function generateBeforeAfterImage(base64Image: string) {
   const prompt = `
 Utilize a foto enviada como base.
 
-Crie uma imagem profissional de antes e depois de corpo inteiro, lado a lado.
+Crie uma imagem profissional de antes e depois de busto, lado a lado.
 
 ESTRUTURA:
 
@@ -33,12 +33,12 @@ ESTILO VISUAL:
 • Cores predominantes: branco, dourado metálico (gold) e azul marinho profundo.
 • Fonte elegante, sofisticada e clássica (serif).
 • Iluminação natural de estúdio fotográfico.
-• Corpo inteiro visível dos pés à cabeça.
+• Busto visível.
 • Postura levemente melhorada no “depois”.
-• Redução realista entre 10% e 15% do peso corporal.
+• Redução realista entre 10% e 12% do peso corporal.
 • Abdômen levemente mais definido.
+• Rosto original levemente mais definido.
 • Sem exageros.
-• Rosto 100% fiel ao original.
 
 OBJETIVO:
 

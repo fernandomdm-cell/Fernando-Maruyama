@@ -343,8 +343,8 @@ export default function App() {
                   <h1 className="text-5xl md:text-8xl font-serif font-light leading-[0.9] tracking-tight">
                     Sua nova <br /> <span className="italic text-gold-gradient">versão</span>
                   </h1>
-                  <p className="text-base text-[#1a1a1a]/50 font-light max-w-md mx-auto leading-relaxed">
-                    A excelência da Emagrecentro agora ao alcance de um clique. Simule seu resultado e comece sua jornada hoje.
+                  <p className="text-lg md:text-xl text-[#1a1a1a]/70 font-medium max-w-xl mx-auto leading-relaxed">
+                    Envie uma foto sua agora e veja como poderá ficar após completar o nosso Método 4 Fases!
                   </p>
                 </div>
 
