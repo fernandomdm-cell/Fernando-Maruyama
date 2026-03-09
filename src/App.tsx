@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { CameraCapture } from './components/CameraCapture';
+import { FileUpload } from './components/FileUpload';
 import { generateBeforeAfterImage } from './services/gemini';
 import { Sparkles, Download, Share2, ArrowLeft, Loader2, MapPin, Phone, Instagram, ExternalLink } from 'lucide-react';
 
@@ -349,7 +349,7 @@ export default function App() {
                 </div>
 
                 <div className="w-full max-w-md">
-                  <CameraCapture onCapture={handleCapture} />
+                  <FileUpload onCapture={handleCapture} />
                 </div>
 
                 {error && (
