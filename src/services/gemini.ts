@@ -35,7 +35,7 @@ ESTILO VISUAL:
 • Iluminação natural de estúdio fotográfico.
 • Corpo inteiro visível dos pés à cabeça.
 • Postura levemente melhorada no “depois”.
-• Redução realista entre 5% e 10% do peso corporal.
+• Redução realista entre 10% e 15% do peso corporal.
 • Abdômen levemente mais definido.
 • Sem exageros.
 • Rosto 100% fiel ao original.
