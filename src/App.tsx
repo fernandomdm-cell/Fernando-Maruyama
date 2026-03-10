@@ -97,21 +97,21 @@ export default function App() {
           </div>
           <div className="space-y-6">
             <p className="text-xl text-[#1a1a1a]/70 font-light leading-relaxed">
-              Na <span className="font-medium text-[#1a1a1a]">Emagrecentro</span>, acreditamos que emagrecer não é sobre pressa, mas sobre fazer certo. Com mais de 30 anos de história e 3 milhões de atendimentos realizados, unimos a única metodologia com comprovação científica de eficácia a um acolhimento individualizado.
+              No <span className="font-medium text-[#1a1a1a]">Emagrecentro</span>, a seriedade e a ética conduzem cada etapa da sua jornada. Fundada há 40 anos por um médico referência, somos hoje a maior rede de clínicas de emagrecimento das Américas, com mais de 4 milhões de vidas transformadas.
             </p>
             <p className="text-xl text-[#1a1a1a]/70 font-light leading-relaxed">
-              Nosso compromisso é com a sua segurança e com resultados que respeitem o seu momento metabólico atual. <span className="italic font-serif text-[#C5A059]">Quem confia, não precisa gritar.</span>
+              Nossa unidade se diferencia pelo rigor técnico e pela segurança de oferecer a única metodologia no mundo com comprovação científica de eficácia. Aqui, não trabalhamos com promessas ou atalhos, mas com o acompanhamento individualizado de profissionais que entendem o seu momento metabólico atual. Nosso compromisso é tranquilizar quem busca um processo estruturado, seguro e verdadeiramente responsável.
             </p>
           </div>
           <div className="pt-8 flex justify-center gap-12">
             <div className="text-center">
-              <div className="text-4xl font-serif text-[#C5A059]">30+</div>
+              <div className="text-4xl font-serif text-[#C5A059]">40+</div>
               <div className="text-[10px] uppercase tracking-widest text-[#1a1a1a]/40 font-bold mt-2">Anos de História</div>
             </div>
             <div className="w-px h-12 bg-[#1a1a1a]/10" />
             <div className="text-center">
-              <div className="text-4xl font-serif text-[#C5A059]">3M+</div>
-              <div className="text-[10px] uppercase tracking-widest text-[#1a1a1a]/40 font-bold mt-2">Atendimentos</div>
+              <div className="text-4xl font-serif text-[#C5A059]">4M+</div>
+              <div className="text-[10px] uppercase tracking-widest text-[#1a1a1a]/40 font-bold mt-2">Vidas Transformadas</div>
             </div>
           </div>
         </motion.div>
@@ -154,10 +154,10 @@ export default function App() {
                 whileInView={{ opacity: 1, y: 0 }}
                 viewport={{ once: true }}
                 transition={{ delay: 0.1 * i }}
-                className="p-4 rounded-2xl bg-white border border-[#1a1a1a]/5 shadow-sm"
+                className="p-6 rounded-3xl bg-white border border-[#C5A059]/20 shadow-md hover:shadow-xl hover:border-[#C5A059]/40 transition-all duration-500 group cursor-default"
               >
-                <div className="w-1.5 h-1.5 rounded-full bg-[#C5A059] mx-auto mb-3" />
-                <span className="text-[9px] font-bold uppercase tracking-widest text-[#1a1a1a]/60 leading-tight block">
+                <div className="w-2 h-2 rounded-full bg-[#C5A059] mx-auto mb-4 shadow-[0_0_10px_rgba(197,160,89,0.4)] group-hover:scale-125 transition-transform duration-500" />
+                <span className="text-[10px] font-bold uppercase tracking-[0.15em] text-[#1a1a1a]/80 leading-tight block">
                   {item}
                 </span>
               </motion.div>
@@ -469,7 +469,6 @@ export default function App() {
             <a href="#sobre" className="hover:text-[#C5A059] transition-colors">Sobre Nós</a>
             <a href="#tratamento" className="hover:text-[#C5A059] transition-colors">Tratamentos</a>
             <a href="#unidades" className="hover:text-[#C5A059] transition-colors">Unidades</a>
-            <a href="https://wa.me/5521994379065" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A059] transition-colors">Privacidade</a>
           </div>
           <div className="h-px w-24 bg-gold-gradient opacity-30" />
           <p className="text-[9px] text-[#1a1a1a]/30 uppercase tracking-[0.4em] text-center leading-loose">

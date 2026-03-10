@@ -92,7 +92,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({ onCapture }) => {
         <div className="pt-6 border-t border-stone-50">
           <div className="flex items-center justify-center gap-3 text-[9px] text-stone-300 uppercase tracking-[0.3em] font-bold">
             <div className="w-1.5 h-1.5 rounded-full bg-[#C5A059]" />
-            Privacidade • Excelência • Saúde
+            Excelência • Saúde
           </div>
         </div>
       </div>
