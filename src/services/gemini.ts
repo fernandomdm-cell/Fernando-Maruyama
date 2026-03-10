@@ -12,10 +12,9 @@ export async function generateBeforeAfterImage(base64Image: string) {
   const prompt = `
 Utilize a foto enviada como base.
 
-Crie uma imagem profissional de antes e depois de busto, lado a lado.
+Crie uma imagem profissional de antes e depois de corpo inteiro, lado a lado.
 
 ESTRUTURA:
-
 • A imagem deve estar dentro de uma moldura elegante e sofisticada.
 • Fundo neutro (branco ou cinza claro).
 • Antes à esquerda.
@@ -23,25 +22,22 @@ ESTRUTURA:
 • Texto “ANTES” acima da primeira imagem.
 • Texto “DEPOIS” acima da segunda imagem.
 • No topo central da arte escrever:
-
-EMAGRECENTRO  
-Método 4 Fases
+  EMAGRECENTRO  
+  Método 4 Fases
 
 ESTILO VISUAL:
-
 • Design clean, premium e minimalista.
 • Cores predominantes: branco, dourado metálico (gold) e azul marinho profundo.
 • Fonte elegante, sofisticada e clássica (serif).
 • Iluminação natural de estúdio fotográfico.
-• Busto visível.
+• Corpo inteiro visível dos pés à cabeça.
 • Postura levemente melhorada no “depois”.
-• Redução realista entre 10% e 12% do peso corporal.
+• Redução realista entre 10% e 15% do peso corporal.
 • Abdômen levemente mais definido.
 • Rosto original levemente mais definido.
 • Sem exageros.
 
 OBJETIVO:
-
 Transmitir saúde, leveza, confiança e resultado natural.
 Visual profissional de clínica estética de alto padrão.
 `;

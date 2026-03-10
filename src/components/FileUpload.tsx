@@ -35,7 +35,7 @@ export const FileUpload: React.FC<FileUploadProps> = ({ onCapture }) => {
       <div className="p-10 space-y-8">
         <div className="text-center space-y-3">
           <h2 className="text-3xl font-serif text-stone-900">Sua Foto</h2>
-          <p className="text-[10px] text-stone-400 uppercase tracking-[0.2em] font-bold">Busto • Fundo Neutro</p>
+          <p className="text-[10px] text-stone-400 uppercase tracking-[0.2em] font-bold">Corpo inteiro • Fundo Neutro</p>
         </div>
 
         <div className="relative aspect-[3/4] bg-[#FDFCFB] rounded-3xl overflow-hidden border border-[#1a1a1a]/5 flex items-center justify-center shadow-inner">
