@@ -1,6 +1,6 @@
 {
   "name": "EMAGRECENTRO - Sua Nova Versão",
-  "description": "Simulador de resultados estéticos utilizando IA para criar visualizações de antes e depois.",
+  "description": "Simulador de resultados estéticos utilizando IA para visualizar sua transformação com o Método 4 Fases.",
   "requestFramePermissions": [
     "camera"
   ]
