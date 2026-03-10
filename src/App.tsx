@@ -226,7 +226,7 @@ export default function App() {
             </div>
 
             <a 
-              href="https://wa.me/5521994379065" 
+              href="https://wa.me/5521999243572" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full py-4 bg-navy-deep text-white rounded-2xl font-bold uppercase tracking-widest text-[10px] hover:bg-[#000030] transition-colors shadow-lg text-center block"
@@ -283,7 +283,7 @@ export default function App() {
             </div>
 
             <a 
-              href="https://wa.me/5521999436776" 
+              href="https://wa.me/5521972313198" 
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full py-4 bg-navy-deep text-white rounded-2xl font-bold uppercase tracking-widest text-[10px] hover:bg-[#000030] transition-colors shadow-lg text-center block"
@@ -306,10 +306,10 @@ export default function App() {
             <a href="#sobre" className="hover:text-[#C5A059] transition-colors">Sobre Nós</a>
             <a href="#tratamento" className="hover:text-[#C5A059] transition-colors">Tratamentos</a>
             <a href="#unidades" className="hover:text-[#C5A059] transition-colors">Unidades</a>
-            <a href="https://wa.me/5521994379065" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A059] transition-colors">Contato</a>
+            <a href="https://wa.me/5521999243572" target="_blank" rel="noopener noreferrer" className="hover:text-[#C5A059] transition-colors">Contato</a>
           </div>
           <a 
-            href="https://wa.me/5521994379065" 
+            href="https://wa.me/5521999243572" 
             target="_blank" 
             rel="noopener noreferrer"
             className="hidden sm:block px-5 py-2 bg-gold-gradient text-white text-[10px] font-bold uppercase tracking-widest rounded-full shadow-lg shadow-[#C5A059]/20 hover:scale-105 transition-transform"
@@ -443,7 +443,7 @@ export default function App() {
                     </p>
                   </div>
                   <a 
-                    href="https://wa.me/5521994379065" 
+                    href="https://wa.me/5521999243572" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="w-full py-5 bg-navy-deep text-white rounded-2xl font-bold uppercase tracking-[0.2em] text-[10px] hover:bg-[#000030] transition-colors shadow-xl shadow-navy-deep/10 text-center block"
