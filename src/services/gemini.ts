@@ -22,7 +22,7 @@ ESTRUTURA:
 • Texto “ANTES” acima da primeira imagem.
 • Texto “DEPOIS” acima da segunda imagem.
 • No topo central da arte escrever EXATAMENTE (atenção à grafia correta):
-  EMAGRECENTRO  
+  Sua Nova Versão
   Método 4 Fases
 
 ESTILO VISUAL:
@@ -40,8 +40,6 @@ ESTILO VISUAL:
 OBJETIVO:
 Transmitir saúde, leveza, confiança e resultado natural.
 Visual profissional de clínica estética de alto padrão.
-
-IMPORTANTE: Verifique a grafia do título "EMAGRECENTRO" (não esqueça o 'N' antes do 'T').
 `;
 
   try {
